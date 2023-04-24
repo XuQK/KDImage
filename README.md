@@ -4,6 +4,8 @@
 
 可以当成是 Compose 版的 [Subsampling Scale Image View](https://github.com/davemorrissey/subsampling-scale-image-view)。
 
+![预览](preview.webp)
+
 ## 特点
 
 - 完全 Compose 实现
